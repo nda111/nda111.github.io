@@ -60,13 +60,13 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 100
-        icon: academicons/dataverse
-        icon_pack: fas
+        icon: dataverse
+        icon_pack: ai
       - name: Computer Vision
         description: ''
         percent: 90
-        icon: academicons/cv
-        icon_pack: fas
+        icon: eye
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
