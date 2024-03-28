@@ -26,9 +26,10 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors: ['Geunhyeok Yu']
 tags: 
-- Kyung Hee University
-- Master
-- Graduation
+- CVPR
+- '2024'
+- Conference
+- Accept
 
 # Is this a featured talk? (true/false)
 featured: true
