@@ -110,6 +110,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ghyeok-vision/
+  - icon: youtube
+    icon_pack: fab
+    link: https://youtube.com/playlist?list=PL2KPL4vjU2K_lpSk9b0Z0RO214t1cebKa&si=_L69DHKaHjEazAbg
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
