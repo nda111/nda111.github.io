@@ -71,15 +71,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Table Tennis
-        description: ''
-        percent: 50
-        icon: table-tennis-paddle-ball
-        icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
+        icon_pack: fas
+      - name: Table Tennis
+        description: ''
+        percent: 70
+        icon: table-tennis-paddle-ball
         icon_pack: fas
       - name: Drawing
         description: ''
