@@ -65,8 +65,8 @@ skills:
       - name: Computer Vision
         description: ''
         percent: 90
-        icon: eye
-        icon_pack: fab
+        icon: arrows-to-eye
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
