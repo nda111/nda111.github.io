@@ -30,9 +30,9 @@ bio: My research interests include computer vision and neural representation lea
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Pattern Recognition
   - Artificial Intelligence
   - Representation Learning
+  - Domain Generalization
 
 # Education to show in About widget
 education:
