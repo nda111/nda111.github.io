@@ -56,7 +56,7 @@ skills:
         description: ''
         percent: 80
         icon: python
-        icon_pack: fas
+        icon_pack: fab
       - name: Machine Learning
         description: ''
         percent: 100
@@ -74,7 +74,7 @@ skills:
       - name: Table Tennis
         description: ''
         percent: 50
-        icon: table-tennis-paddle-ball-solid
+        icon: table-tennis-paddle-ball
         icon_pack: fas
       - name: Cats
         description: ''
@@ -84,7 +84,7 @@ skills:
       - name: Drawing
         description: ''
         percent: 30
-        icon: paint-brush
+        icon: pen-nib
         icon_pack: fas
 
 # Social/Academic Networking
