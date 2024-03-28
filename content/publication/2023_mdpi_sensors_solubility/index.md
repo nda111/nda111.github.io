@@ -46,7 +46,7 @@ url_pdf: https://www.mdpi.com/1424-8220/23/12/5525
 # url_code: https://github.com/AIRLABkhu/Decision-BADGE
 # url_dataset: ''
 # url_poster: ''
-# url_project: ''
+url_project: '/project/2022_solubility'
 # url_slides: ''
 # url_source: ''
 # url_video: ''
