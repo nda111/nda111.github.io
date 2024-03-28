@@ -36,12 +36,14 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: skills
     content:
       title: Skills
@@ -50,6 +52,7 @@ sections:
       username: admin
     design:
       columns: '1'
+
   # - block: experience
   #   content:
   #     title: Experience
@@ -85,6 +88,7 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
+  
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -127,6 +131,7 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
+
   - block: collection
     id: posts
     content:
@@ -154,6 +159,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -181,14 +187,16 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+      
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+
   - block: collection
     id: featured
     content:
@@ -200,6 +208,7 @@ sections:
     design:
       columns: '2'
       view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -214,6 +223,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -224,11 +234,13 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+
   - block: contact
     id: contact
     content:
@@ -271,13 +283,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
