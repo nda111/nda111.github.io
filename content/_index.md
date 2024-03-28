@@ -65,19 +65,27 @@ sections:
       columns: '2'
       view: card
 
-  - block: collection
+  - block: portfolio
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        # exclude_featured: true
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Conference
+          tag: Conference
+        - name: Journal
+          tag: Journal
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
   - block: portfolio
