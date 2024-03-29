@@ -125,8 +125,8 @@ highlight_name: true
 ---
 
 I am a Ph.D. student at the [Artificial Intelligence and Robotics Lab.](http://airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University, Republic of Korea. 
-I study visual machine perception using deep neural representation. 
+I study visual perception using deep neural representation. 
 I received B.S. degree in the Department of Software at Gachon University in 2022 and M.S. degree in the Department of Software Convergence at Kyung Hee University in 2024. 
-My research interest includes Computer Vision, Deep Representation Learning, and Prompt Tuning. 
+My research interest includes Computer Vision, Deep Representation Learning, and Model Compression. 
 Recently, I focus on model compression in the perspective of redundant representation of neural networks. 
 {style="text-align: justify;"}
