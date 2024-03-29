@@ -146,9 +146,9 @@ sections:
               ``` PyTorch / Deep Learning / Probabilistics / Linear Algebra ```
         - title: Internship Student
           company: DDS
-          company_url: ''
+          company_url: 'http://www.aegisdds.com/'
           company_logo: dds
-          location: California
+          location: Geumcheon-gu, Seoul, Republic of Korea
           date_start: '2020-07-01'
           date_end: '2020-08-31'
           description: |2-
