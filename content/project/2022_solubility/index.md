@@ -14,7 +14,7 @@ with: '(주) 디스메카, Samsung Advanced Institute of Technology (SAIT) Corp.
 # external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  # caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
 

@@ -35,7 +35,7 @@ tags:
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**CVPR**](https://cvpr.thecvf.com/)'
   focal_point: Right
 
 # links:
