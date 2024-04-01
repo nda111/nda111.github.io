@@ -51,6 +51,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    color: '#B03CB5'
+    color_border: '#FDD1FF'
     items:
       - name: Python
         description: ''
@@ -68,8 +70,10 @@ skills:
         icon: arrows-to-eye
         icon_pack: fas
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
+    color: '#613CB5'
+    color_border: '#DFD1FF'
     items:
       - name: Cats
         description: ''
