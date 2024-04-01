@@ -7,8 +7,8 @@
 
 appearance:
   mode: system
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: ghyeok
+  theme_night: ghyeok
   font: minimal
   font_size: L
 

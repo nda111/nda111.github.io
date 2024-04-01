@@ -1,0 +1,36 @@
+# Theme metadata
+name = "Ghyeok"
+
+[light]
+  # Primary
+  primary = "#AC7FC2"
+  link_hover = "#812DC1"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#3B2B42"
+  menu_text_active = "#AC7FC2"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(252, 249, 255)"
+
+[dark]
+  # Primary
+  primary = "#F9EDFF"
+  background = "#23122B"
+
+  link = "#F9EDFF"
+  link_hover = "#FDF7FF"
+
+  # Menu
+  menu_primary = "#23122B"
+  menu_text = "#FDF7FF"
+  menu_text_active = "#EFCFFF"
+  menu_title = "#FDF7FF"
+
+  # Home sections
+  home_section_even = "#3B2B42"
+  home_section_odd = "#2B1F30"
+  
