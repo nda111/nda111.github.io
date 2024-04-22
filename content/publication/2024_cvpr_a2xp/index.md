@@ -59,7 +59,7 @@ links:
 url_pdf: 'https://airlabkhu.github.io/A2XP/static/pdfs/CVPR_2024_A2XP_Towards_Private_Domain_Generalization.pdf'
 url_code: 'https://github.com/AIRLABkhu/A2XP'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: ''
+url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit'
 url_project: 'https://airlabkhu.github.io/A2XP/'
 # url_slides: ''
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -87,6 +87,9 @@ image:
 # #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+<iframe src="https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit" width="100%" height="400">
+</iframe>
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
