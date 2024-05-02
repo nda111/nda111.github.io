@@ -61,7 +61,7 @@ url_code: 'https://github.com/AIRLABkhu/A2XP'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit'
 url_project: 'https://airlabkhu.github.io/A2XP/'
-# url_slides: ''
+url_slides: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_slides.pdf#view=fit'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_video: 'https://youtube.com'
 
