@@ -133,7 +133,7 @@ sections:
         - title: Ph.D./M.S. Student Researcher
           company: AIRLab
           company_url: 'http://airlab.khu.ac.kr'
-          company_logo: airlab
+          company_logo: airlab-ai
           location: Yongin-si, Republic of Korea
           date_start: '2022-03-02'
           date_end: ''
