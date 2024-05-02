@@ -24,7 +24,7 @@ marketing:
   analytics:
     google_analytics: 'G-ZT476DT8XZ'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'GTM-WG6TPKMX'
     microsoft_clarity: ''
   verification:
     google: ''
