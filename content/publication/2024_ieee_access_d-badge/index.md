@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-05-27T00:00:00Z"
-doi: ""
+# doi: "10.1109/ACCESS.2024.3407097" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
-# publication_types: ["article-journal"]
+# publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Access (Accepted)"
@@ -36,12 +36,14 @@ tags:
 - Adversarial Reprogramming
 - Decision-based
 - Transformers
-- Preprint
+- Journal
+- IEEE
+- Access
 featured: false
 
 links:
-- name: arXiv
- url: https://arxiv.org/abs/2303.04980
+  - name: arXiv
+    url: https://arxiv.org/abs/2303.04980
 url_pdf: https://arxiv.org/pdf/2303.04980.pdf
 url_code: https://github.com/AIRLABkhu/D-BADGE
 # url_dataset: ''
