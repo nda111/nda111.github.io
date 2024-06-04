@@ -144,6 +144,20 @@ sections:
               * M.S. Researcher
               
               ``` PyTorch / Deep Learning / Probabilistics / Linear Algebra ```
+        - title: Teaching Assistant
+          company: Dept. Software Convergence, Kyung Hee University
+          company_url: 'https://www.khu.ac.kr'
+          company_logo: khu
+          location: Yongin-si, Republic of Korea
+          date_start: '2022-03-02'
+          date_end: ''
+          description: |2-
+              Subjects include:
+
+              * Operating System (CSE301-01, Spring Sem. 2022.) 
+              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
+              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
+              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
         - title: Internship Student
           company: DDS
           company_url: 'http://www.aegisdds.com/'
@@ -158,6 +172,18 @@ sections:
               * 3D Model Visualization
               
               ``` C++ / VTK / Linear Algebra / Geometry ```
+        - title: Teaching Assistant
+          company: Dept. Software, Gachon University
+          company_url: 'http://gachon.ac.kr/'
+          company_logo: gcu
+          location: Seongnam-si, Republic of Korea
+          date_start: '2020-03-02'
+          date_end: '2020-12-23'
+          description: |2-
+              Subjects include:
+
+              * Object-oriented Programming (09805003--4, Spring Sem. 2020.)
+              * Software Implementation Patterns (11494005, Fall Sem. 2020.)
     design:
       columns: '2'
 
