@@ -44,7 +44,7 @@ featured: false
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2303.04980
-url_pdf: https://arxiv.org/pdf/2303.04980.pdf
+url_pdf: https://ieeexplore.ieee.org/document/10542123
 url_code: https://github.com/AIRLABkhu/D-BADGE
 # url_dataset: ''
 # url_poster: ''
