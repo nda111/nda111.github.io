@@ -56,7 +56,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.10339
 
-url_pdf: 'https://airlabkhu.github.io/A2XP/static/pdfs/CVPR_2024_A2XP_Towards_Private_Domain_Generalization.pdf'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_A2XP_Towards_Private_Domain_Generalization_CVPR_2024_paper.pdf'
 url_code: 'https://github.com/AIRLABkhu/A2XP'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit'
