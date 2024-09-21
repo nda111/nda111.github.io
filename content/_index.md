@@ -130,6 +130,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: NAVER LABS Corp.
+          company_url: 'https://www.naverlabs.com/'
+          company_logo: naverlabs
+          location: Seongnam-si, Republic of Korea
+          date_start: '2024-09-19'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Robot Vision Team
+              * Lightweight AI Development
+              
+              ``` Deep Learning / Knowledge Distillation / Probabilistics ```
         - title: Ph.D./M.S. Student Researcher
           company: AIRLab
           company_url: 'http://airlab.khu.ac.kr'
