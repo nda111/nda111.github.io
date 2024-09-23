@@ -12,8 +12,8 @@ event_url: https://www.naverlabs.com/
 #   postcode: '17104'
 #   country: Republic of Korea
 
-summary: Joined Robot Vision Team @ NAVER LABS Corp. as a research intern.
-abstract: Joined Robot Vision Team @ NAVER LABS Corp. as a research intern.
+summary: Joined Robot Perception Team @ NAVER LABS Corp. as a research intern.
+abstract: Joined Robot Perception Team @ NAVER LABS Corp. as a research intern.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
