@@ -140,7 +140,7 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Robot Vision Team
+              * Robot Perception Team
               * Lightweight AI Development
               
               ``` Deep Learning / Knowledge Distillation / Probabilistics ```
