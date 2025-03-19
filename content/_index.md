@@ -136,7 +136,7 @@ sections:
           company_logo: naverlabs
           location: Seongnam-si, Republic of Korea
           date_start: '2024-09-19'
-          date_end: ''
+          date_end: '2025-03-18'
           description: |2-
               Responsibilities include:
 
