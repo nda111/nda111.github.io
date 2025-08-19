@@ -3,12 +3,13 @@ FROM ubuntu:24.04
 ARG HUGO_VERSION=0.123.3
 ENV HUGO_VERSION=${HUGO_VERSION}
 
-# 필요한 패키지 설치
+# 필수 패키지 설치 (curl, git, npm, node, go 등)
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    ca-certificates curl git nodejs npm \
+    ca-certificates curl git \
+    nodejs npm golang-go \
     && rm -rf /var/lib/apt/lists/*
 
-# Hugo extended 설치 (파일 이름 패턴 최신 기준: linux-amd64)
+# Hugo extended 설치
 RUN set -eux; \
     url1="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"; \
     url2="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb"; \
@@ -25,4 +26,4 @@ RUN npm install -g postcss postcss-cli autoprefixer
 WORKDIR /src
 EXPOSE 1313
 
-CMD ["hugo", "server", "-D"]
+CMD ["hugo", "server", "-D", "--bind", "0.0.0.0", "--baseURL", "/"]
