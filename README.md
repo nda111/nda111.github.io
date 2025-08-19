@@ -36,7 +36,7 @@ or using `podman`,
 podman pull nda111/hugo-blox:latest
 ```
 
-If it does not work, `Dockerfile` is available in my [GitHub reposotory](https://github.com/nda111/nda111.github.io/tree/docker).
+If it does not work, `Dockerfile` is available in my [GitHub repository](https://github.com/nda111/nda111.github.io/tree/docker).
 
 You might have to build the image yourself.
 
