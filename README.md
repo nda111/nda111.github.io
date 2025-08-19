@@ -63,3 +63,7 @@ hugo server -D --bind 0.0.0.0
 ```
 
 If no error, [localhost:1313](https://localhost:1313) will give you the website. 
+
+## Deployment
+
+Simply `push`ing your code to the `main` branch will automatically build and deploy the website. 
