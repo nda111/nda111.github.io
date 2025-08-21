@@ -63,7 +63,7 @@ url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=f
 url_project: 'https://airlabkhu.github.io/A2XP/'
 url_slides: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_slides.pdf#view=fit'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=RLb8EdYWaDk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
