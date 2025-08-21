@@ -168,10 +168,12 @@ sections:
           description: |2-
               Subjects include:
 
-              * Operating System (CSE301-01, Spring Sem. 2022.) 
-              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
-              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
+              * Web/Python Programming (SWCON10400, Fall Sem. 2025.)
+              * Game Graphics Programming (SWCON31100, Spring Sem. 2025.)
               * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
+              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
+              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
+              * Operating System (CSE301-01, Spring Sem. 2022.) 
         - title: Internship Student
           company: DDS
           company_url: 'http://www.aegisdds.com/'
