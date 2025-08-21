@@ -43,10 +43,12 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+url_code: 'https://github.com/AIRLABkhu/A2XP'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_A2XP_Towards_Private_Domain_Generalization_CVPR_2024_paper.pdf'
+url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit'
+url_project: 'https://airlabkhu.github.io/A2XP/'
+url_slides: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_slides.pdf#view=fit'
+url_video: 'https://www.youtube.com/watch?v=RLb8EdYWaDk'
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
