@@ -1,5 +1,5 @@
 ---
-title: Foundation model compression via knowledge distillation for mobile robots.
+title: Foundation model compression via knowledge distillation for mobile robots
 summary: Development of vision foundtaion model distillation method for real-time inference on mobility. 
 tags:
   - NAVER LABS Corp.
