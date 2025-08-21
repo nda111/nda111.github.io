@@ -1,10 +1,10 @@
 ---
 title: Development of solubility measurement technology using computer vision
-summary: Hubidity Detection, Machine Learning, Computer Vision
+summary: Development of solubility measurement software and a hardware platform for stable measurement. 
 tags:
-  - Samsung Advanced Institute of Technology
-  - SAIT
-  - 디스메카
+  - Hubidity Detection
+  - Machine Learning
+  - Computer Vision
 date: '2022-03-01'
 date_from: 'Mar. 2022'
 date_to: 'Jul. 2022'
