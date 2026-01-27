@@ -1,5 +1,5 @@
 ---
-title: Joined NAVER LABS Corp.
+title: Joined NAVER LABS Corp
 
 event: NAVER LABS Internship Program
 event_url: https://www.naverlabs.com/
@@ -12,8 +12,8 @@ event_url: https://www.naverlabs.com/
 #   postcode: '17104'
 #   country: Republic of Korea
 
-summary: Joined Robot Perception Team @ NAVER LABS Corp. as a research intern.
-abstract: Joined Robot Perception Team @ NAVER LABS Corp. as a research intern.
+summary: Joined Robot Perception Team @ NAVER LABS Corp as a research intern.
+abstract: Joined Robot Perception Team @ NAVER LABS Corp as a research intern.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -34,7 +34,7 @@ tags:
 featured: true
 
 image:
-  caption: 'Image credit: [**NAVER LABS Corp.**](https://www.naverlabs.com/)'
+  caption: 'Image credit: [**NAVER LABS Corp**](https://www.naverlabs.com/)'
   focal_point: Right
 
 # links:

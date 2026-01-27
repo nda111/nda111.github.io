@@ -131,7 +131,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: NAVER LABS Corp.
+          company: NAVER LABS Corp
           company_url: 'https://www.naverlabs.com/'
           company_logo: naverlabs
           location: Seongnam-si, Republic of Korea
