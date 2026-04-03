@@ -61,11 +61,11 @@ links:
 url_pdf: 'https://openreview.net/pdf?id=exjrxVc2yT'
 url_code: 'https://github.com/AIRLABkhu/SiNGER'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_poster: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit'
-# url_project: 'https://airlabkhu.github.io/A2XP/'
-# url_slides: 'https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_slides.pdf#view=fit'
+url_poster: 'https://airlabkhu.github.io/SiNGER/static/pdfs/Poster_150x90.pdf#view=fit'
+url_project: 'https://airlabkhu.github.io/SiNGER/'
+url_slides: 'https://airlabkhu.github.io/SiNGER/static/pdfs/Slides.pdf#view=fit'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://www.youtube.com/watch?v=RLb8EdYWaDk'
+url_video: 'https://www.youtube.com/watch?v=oYYARDT2WH0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -90,8 +90,8 @@ image:
 # slides: example
 ---
 
-<!-- <iframe src="https://airlabkhu.github.io/A2XP/static/pdfs/A2XP_poster.pdf#view=fit" width="100%" height="400">
-</iframe> -->
+<iframe src="https://airlabkhu.github.io/SiNGER/static/pdfs/Poster_150x90.pdf#view=fit" width="100%" height="400">
+</iframe>
 
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
