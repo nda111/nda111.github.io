@@ -168,7 +168,7 @@ sections:
           description: |2-
               Subjects include:
 
-              * Web/Python Programming (SWCON10400, Fall Sem. 2025.)
+              * Web/Python Programming (SWCON10400, Fall Sem. 2025. \& Spring Sem. 2026.)
               * Game Graphics Programming (SWCON31100, Spring Sem. 2025.)
               * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
               * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
