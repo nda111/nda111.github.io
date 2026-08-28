@@ -327,7 +327,11 @@ sections:
       coordinates:  
         latitude: '37.239812' 
         longitude: '127.083313' 
-      # contact_links:
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: ghyeok-vision
+          link: 'https://www.linkedin.com/in/ghyeok-vision/'
         # - icon: twitter
         #   icon_pack: fab
         #   name: DM Me
