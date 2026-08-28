@@ -310,7 +310,7 @@ sections:
         
       # Contact (add or remove contact options as necessary)
       email: geunhyeok@khu.ac.kr
-      phone: +82) 32 201 5570
+      # phone: +82) 32 201 5570
       # appointment_url: 'https://calendly.com'
       address:
         street: 1732 Deogyeong-daero
@@ -319,7 +319,7 @@ sections:
         postcode: '17104'
         country: Republic of Korea
         country_code: KR
-      directions: Room 443-1, College of Electronics and Information, Kyung Hee University
+      directions: Room 316, College of Electronics and Information, Kyung Hee University
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
