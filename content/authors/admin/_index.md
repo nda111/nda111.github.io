@@ -1,6 +1,9 @@
 ---
-# Display name
+# Display name (preferred name)
 title: Geunhyeok Yu
+
+# Optional real name, shown below the display name in smaller, lighter text.
+# real_name: Geunhyeok Yu
 
 # # Name pronunciation (optional)
 # name_pronunciation: Geun Hyeok Yu  
@@ -107,16 +110,16 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=oXoHwFMAAAAJ&hl=en
+    link: "https://scholar.google.com/citations?user=oXoHwFMAAAAJ&hl=en"
   - icon: github
     icon_pack: fab
-    link: https://github.com/nda111
+    link: "https://github.com/nda111"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ghyeok-vision/
-  - icon: youtube
+  - icon: "youtube"
     icon_pack: fab
-    link: https://youtube.com/playlist?list=PL2KPL4vjU2K_lpSk9b0Z0RO214t1cebKa&si=_L69DHKaHjEazAbg
+    link: "https://youtube.com/playlist?list=PL2KPL4vjU2K_lpSk9b0Z0RO214t1cebKa&si=_L69DHKaHjEazAbg"
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -127,10 +130,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a Ph.D. student at the [Artificial Intelligence and Robotics Lab.](http://airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University, Republic of Korea. 
-I study visual perception using deep neural representation. 
-I received B.S. degree in the Department of Software at Gachon University in 2022 and M.S. degree in the Department of Software Convergence at Kyung Hee University in 2024. 
-My research interest includes Computer Vision, Deep Representation Learning, and Model Compression. 
-Recently, I focus on model compression in the perspective of redundant representation of neural networks. 
+I am a Ph.D. student at the [Artificial Intelligence and Robotics Lab.](http://airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University, Republic of Korea.
+I study visual perception using deep neural representation.
+I received B.S. degree in the Department of Software at Gachon University in 2022 and M.S. degree in the Department of Software Convergence at Kyung Hee University in 2024.
+My research interest includes Computer Vision, Deep Representation Learning, and Model Compression.
+Recently, I focus on model compression in the perspective of redundant representation of neural networks.
 {style="text-align: justify;"}
